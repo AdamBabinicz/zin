@@ -33,7 +33,7 @@ export const SubHeading = styled.p`
   margin: 3rem;
 
   @media only screen and (max-width: 380px) {
-    font-size: 3rem;
+    font-size: 2rem;
   }
 `;
 
