@@ -77,29 +77,29 @@ const About = () => {
             </MainBox>
             <BtnWrap>
               <Button onClick={() => Toggle()}>Więcej</Button>
-              <Modal
-                show={modal}
-                close={Toggle}
-                title="W jego gabinecie zawsze wisiał krzyż"
-              >
-                <p>
-                  Od dziecka przejawiał zainteresowania artystyczne. Pasjonowało
-                  go zwłaszcza malarstwo i rysunek. Pierwszych lekcji plastyki
-                  udzielali mu dziadek i ojciec, właściciele zakładu
-                  malarsko-pozłotniczego w rodzinnym Hrubieszowie. Później pod
-                  swoje skrzydła wziął go Aleksandrow, uczeń Repina, emigrant z
-                  Rosji, który młodego Wiktora wprowadził w zasady geometrii i
-                  perspektywy. Bardzo przydało mu się to w trakcie studiów
-                  architektonicznych w Krakowie.
-                </p>
-                <br />
-                <p>
-                  <em>
-                    facet.wp.pl/wiktor-zin-dzentelmen-z-piorkiem-i-weglem-6036865635447937a
-                  </em>
-                </p>
-              </Modal>
             </BtnWrap>
+            <Modal
+              show={modal}
+              close={Toggle}
+              title="W jego gabinecie zawsze wisiał krzyż"
+            >
+              <p>
+                Od dziecka przejawiał zainteresowania artystyczne. Pasjonowało
+                go zwłaszcza malarstwo i rysunek. Pierwszych lekcji plastyki
+                udzielali mu dziadek i ojciec, właściciele zakładu
+                malarsko-pozłotniczego w rodzinnym Hrubieszowie. Później pod
+                swoje skrzydła wziął go Aleksandrow, uczeń Repina, emigrant z
+                Rosji, który młodego Wiktora wprowadził w zasady geometrii i
+                perspektywy. Bardzo przydało mu się to w trakcie studiów
+                architektonicznych w Krakowie.
+              </p>
+              <br />
+              <p>
+                <em>
+                  facet.wp.pl/wiktor-zin-dzentelmen-z-piorkiem-i-weglem-6036865635447937a
+                </em>
+              </p>
+            </Modal>
           </AboutCol>
           <AboutCol>
             <MainBox1>
@@ -116,30 +116,30 @@ const About = () => {
             </MainBox1>
             <BtnWrap>
               <Button onClick={() => Toggle1()}>Więcej</Button>
-              <Modal1
-                show={modal1}
-                close={Toggle1}
-                title="Ratował nie tylko zabytki Krakowa"
-              >
-                <p>
-                  Komunistyczne władze w końcu machnęły ręką na religijne
-                  „odchylenie” naukowca. Umieli docenić jego wiedzę i
-                  profesjonalizm. Profesor był dla nich zbyt cenny. Nie tylko
-                  pracował na uczelni, ale zajął się też ratowaniem zabytków
-                  Krakowa. Został m.in. głównym architektem miasta, kierował
-                  badaniami Staromiejskiego Zespołu Krakowa i Krakowskiej
-                  Komisji Konserwatorskiej. To tylko niektóre z funkcji
-                  sprawowanych przez niestrudzonego profesora. W 1977 roku
-                  został generalnym konserwatorem zabytków.
-                </p>
-                <br />
-                <p>
-                  <em>
-                    facet.wp.pl/wiktor-zin-dzentelmen-z-piorkiem-i-weglem-6036865635447937a
-                  </em>
-                </p>
-              </Modal1>
             </BtnWrap>
+            <Modal1
+              show={modal1}
+              close={Toggle1}
+              title="Ratował nie tylko zabytki Krakowa"
+            >
+              <p>
+                Komunistyczne władze w końcu machnęły ręką na religijne
+                „odchylenie” naukowca. Umieli docenić jego wiedzę i
+                profesjonalizm. Profesor był dla nich zbyt cenny. Nie tylko
+                pracował na uczelni, ale zajął się też ratowaniem zabytków
+                Krakowa. Został m.in. głównym architektem miasta, kierował
+                badaniami Staromiejskiego Zespołu Krakowa i Krakowskiej Komisji
+                Konserwatorskiej. To tylko niektóre z funkcji sprawowanych przez
+                niestrudzonego profesora. W 1977 roku został generalnym
+                konserwatorem zabytków.
+              </p>
+              <br />
+              <p>
+                <em>
+                  facet.wp.pl/wiktor-zin-dzentelmen-z-piorkiem-i-weglem-6036865635447937a
+                </em>
+              </p>
+            </Modal1>
           </AboutCol>
           <AboutCol>
             <MainBox2>
@@ -156,29 +156,28 @@ const About = () => {
             </MainBox2>
             <BtnWrap>
               <Button onClick={() => Toggle2()}>Więcej</Button>
-              <Modal2
-                show={modal2}
-                close={Toggle2}
-                title="Najbardziej popularny wśród wykładowców"
-              >
-                <p>
-                  Wiktor Zin był zaprzeczeniem nudnego profesora. Kochał
-                  młodzież z wzajemnością. Jego wykłady były oblegane. W
-                  plebiscytach na najpopularniejszego wykładowcę Politechniki
-                  Krakowskiej zajmował pierwsze miejsce. Podobnie było na innych
-                  uczelniach, z którymi współpracował – Europejskiej Akademii
-                  Sztuk, Akademii Górniczo-Hutniczej i rzeszowskiej Wyższej
-                  Szkole Informatyki i Zarządzania, gdzie kierował Katedrą
-                  Historii Sztuki i Kultury.
-                </p>
-                <br />
-                <p>
-                  <em>
-                    facet.wp.pl/wiktor-zin-dzentelmen-z-piorkiem-i-weglem-6036865635447937a
-                  </em>
-                </p>
-              </Modal2>
             </BtnWrap>
+            <Modal2
+              show={modal2}
+              close={Toggle2}
+              title="Najbardziej popularny wśród wykładowców"
+            >
+              <p>
+                Wiktor Zin był zaprzeczeniem nudnego profesora. Kochał młodzież
+                z wzajemnością. Jego wykłady były oblegane. W plebiscytach na
+                najpopularniejszego wykładowcę Politechniki Krakowskiej zajmował
+                pierwsze miejsce. Podobnie było na innych uczelniach, z którymi
+                współpracował – Europejskiej Akademii Sztuk, Akademii
+                Górniczo-Hutniczej i rzeszowskiej Wyższej Szkole Informatyki i
+                Zarządzania, gdzie kierował Katedrą Historii Sztuki i Kultury.
+              </p>
+              <br />
+              <p>
+                <em>
+                  facet.wp.pl/wiktor-zin-dzentelmen-z-piorkiem-i-weglem-6036865635447937a
+                </em>
+              </p>
+            </Modal2>
           </AboutCol>
         </AboutContainer>
         <AboutSubSec>
