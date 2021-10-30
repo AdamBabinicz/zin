@@ -75,7 +75,7 @@ const SideBar = (props) => {
           <SideBarBtn>
             <LinkBtn
               onClick={props.toggle}
-              to="/Gallery"
+              to="/Slider"
               activeClass="active"
               spy={true}
               smooth={true}
