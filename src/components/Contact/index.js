@@ -25,11 +25,12 @@ const Contact = () => {
         <SubHeading>
           W Krakowie znajduje się ulica jego imienia, do 2017 nosząca imię Janka
           Szumca. Stowarzyszenie Ochrony Narodowego Dziedzictwa Materialnego
-          przyznaje nagrodę imienia profesora Wiktora Zina. Nagroda wręczana
-          jest na Zamku Królewskim w Warszawie, w trakcie gali ogłoszenia
-          wyników i wręczenia nagród w Ogólnopolskim Konkursie Otwartym
-          „Modernizacja Roku”. Szkoła Podstawowa nr 137 w Krakowie nosi imię
-          prof. Wiktora Zina.
+          przyznaje <b>nagrodę imienia profesora Wiktora Zina</b>. Nagroda
+          wręczana jest na Zamku Królewskim w Warszawie, w trakcie gali
+          ogłoszenia wyników i wręczenia nagród w
+          <b> Ogólnopolskim Konkursie Otwartym „Modernizacja Roku”</b>.
+          <b> Szkoła Podstawowa nr 137</b> w Krakowie nosi imię prof. Wiktora
+          Zina.
         </SubHeading>
         <ContactMain>
           <ContactContainer>

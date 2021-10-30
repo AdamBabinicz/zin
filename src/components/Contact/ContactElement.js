@@ -35,6 +35,7 @@ export const SubHeading = styled.p`
   @media only screen and (max-width: 380px) {
     font-size: 2rem;
     text-align: left;
+    line-height: 3rem;
   }
 `;
 
