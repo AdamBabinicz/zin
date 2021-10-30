@@ -23,7 +23,7 @@ import i19 from "../../images/32.jpg";
 import i20 from "../../images/33.jpg";
 import i21 from "../../images/34.jpg";
 import i22 from "../../images/35.jpg";
-import i23 from "../../images/36.jpg";
+import i23 from "../../images/4.png";
 import i24 from "../../images/37.jpg";
 import i25 from "../../images/38.jpg";
 import i26 from "../../images/39.jpg";
