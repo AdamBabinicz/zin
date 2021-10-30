@@ -54,10 +54,7 @@ const Contact = () => {
                     proboszcz Bazyliki Mariackiej. Kazanie wygłosił ks. prałat
                     Władysław Gasidło – dziekan dekanatu Kraków Centrum. Po
                     eucharystii, trumna z ciałem profesora, przy dźwiękach
-                    kapeli góralskiej opuściła bazylikę. O godz. 13 kondukt
-                    żałobny, któremu przewodniczył metropolita krakowski – kard.
-                    Stanisław Dziwisz oraz kard. Franciszek Macharski wyruszył
-                    spod bram cmentarza na miejsce pochówku.
+                    kapeli góralskiej opuściła bazylikę.
                   </p>
                   <br />
                   <p>

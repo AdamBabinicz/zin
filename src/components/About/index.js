@@ -90,10 +90,7 @@ const About = () => {
                   swoje skrzydła wziął go Aleksandrow, uczeń Repina, emigrant z
                   Rosji, który młodego Wiktora wprowadził w zasady geometrii i
                   perspektywy. Bardzo przydało mu się to w trakcie studiów
-                  architektonicznych w Krakowie. Po ich ukończeniu podjął pracę
-                  na Politechnice Krakowskiej, gdzie przez lata kierował między
-                  innymi Instytutem Historii Architektury i Konserwacji
-                  Zabytków.
+                  architektonicznych w Krakowie.
                 </p>
                 <br />
                 <p>
@@ -133,11 +130,7 @@ const About = () => {
                   badaniami Staromiejskiego Zespołu Krakowa i Krakowskiej
                   Komisji Konserwatorskiej. To tylko niektóre z funkcji
                   sprawowanych przez niestrudzonego profesora. W 1977 roku
-                  został generalnym konserwatorem zabytków. Zasłynął wówczas
-                  uratowaniem niewygodnej politycznie (bo przedstawiającej
-                  zwycięstwo Polaków nad Rosjanami) „Panoramy Racławickiej”.
-                  Zagrożone zniszczeniem dzieło przewieziono na jego polecenie z
-                  Wrocławia do Warszawy.
+                  został generalnym konserwatorem zabytków.
                 </p>
                 <br />
                 <p>
@@ -176,9 +169,7 @@ const About = () => {
                   uczelniach, z którymi współpracował – Europejskiej Akademii
                   Sztuk, Akademii Górniczo-Hutniczej i rzeszowskiej Wyższej
                   Szkole Informatyki i Zarządzania, gdzie kierował Katedrą
-                  Historii Sztuki i Kultury. Śmierć przyszła do niego właśnie
-                  wtedy, gdy przygotowywał się do zajęć na rzeszowskiej uczelni.
-                  Jego ostatniego wykładu wysłuchał już ktoś inny.
+                  Historii Sztuki i Kultury.
                 </p>
                 <br />
                 <p>

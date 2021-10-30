@@ -15,8 +15,8 @@
   .modal {
     background: linear-gradient(
       to right,
-      rgba(255, 255, 255, 0.5),
-      rgba(255, 255, 255, 0.8)
+      rgba(255, 255, 255, 0.8),
+      rgba(255, 255, 255, 0.9)
     );
     width: calc(20rem + 55vw);
     height: auto;
@@ -41,13 +41,13 @@
       .close {
         position: absolute;
         top: 0;
-        right: 0;
+        right: 0.5rem;
         background: transparent;
         cursor: pointer;
         border: none;
 
         img {
-          width: 1rem;
+          width: 1.5rem;
           height: auto;
           transition: all 0.3s ease;
         }

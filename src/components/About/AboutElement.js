@@ -205,7 +205,7 @@ export const AboutContentSec = styled.div`
     height: 63vh;
   }
   @media only screen and (max-width: 380px) {
-    height: 60vh;
+    height: 100%;
   }
 `;
 

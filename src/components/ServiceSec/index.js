@@ -100,13 +100,7 @@ const Service = () => {
               członek Meksykańskiej Akademii Architektury. W latach 1986–1989
               był członkiem Ogólnopolskiego Komitetu Grunwaldzkiego. W latach
               1986–1988 członek Społecznego Komitetu Odnowy Starego Miasta
-              Zamościa. 28 stycznia 1998 Politechnika Krakowska przyznała mu
-              tytuł doktora honoris causa. Jako generalny konserwator zabytków
-              zasłynął między innymi samowolną decyzją o natychmiastowym
-              wywiezieniu Panoramy Racławickiej z magazynów muzealnych we
-              Wrocławiu do nieprzygotowanych pomieszczeń w Warszawie w celu
-              niedopuszczenia jej do ekspozycji we Wrocławiu, pod pretekstem
-              zamiaru wyeksponowania jej w przyszłości w Racławicach.
+              Zamościa.
             </p>
             <br />
             <p>

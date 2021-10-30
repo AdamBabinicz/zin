@@ -44,8 +44,6 @@ const HeroSection = () => {
                 A ja rysowałem sylwetę Wawelu, wtedy z okien tej pracowni było
                 jeszcze ją widać. I to był już 33. rysunek zamku. Kantor był tym
                 faktem ogromnie zdziwiony. Zapytał dlaczego to robię.
-                Powiedziałem mu, że ćwiczę rysunek przed występem w telewizji,
-                będę musiał go wykonać w 2,5 minuty.
               </p>
               <br />
               <p>
