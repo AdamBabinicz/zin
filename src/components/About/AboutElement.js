@@ -57,7 +57,7 @@ export const AboutContainer = styled.div`
   padding: 0.5rem 5%;
   gap: 2.4rem;
   margin-top: 6rem;
-  padding-bottom: 20rem;
+  /* padding-bottom: 20rem; */
   justify-content: center;
 
   @media only screen and (max-width: 991px) {
@@ -212,6 +212,7 @@ export const AboutContentSec = styled.div`
 export const ImageDiv = styled.div`
   width: 100%;
   height: auto;
+  margin-top: 5rem;
 `;
 
 export const Img = styled.img`
