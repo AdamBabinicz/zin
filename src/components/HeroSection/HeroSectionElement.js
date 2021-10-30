@@ -47,7 +47,7 @@ export const HeroContent = styled.div`
   }
   @media only screen and (max-width: 768px) {
     margin-bottom: 3rem;
-    padding-top: 7rem;
+    /* padding-top: 7rem; */
     width: 100%;
     /* margin-top: 7rem; */
   }
