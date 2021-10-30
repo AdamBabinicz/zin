@@ -225,6 +225,7 @@ export const Img = styled.img`
   }
   @media only screen and (max-width: 992px) {
     height: 51vh;
+    width: 100%;
   }
 `;
 
