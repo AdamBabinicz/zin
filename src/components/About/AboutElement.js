@@ -202,7 +202,7 @@ export const AboutContentSec = styled.div`
   }
   @media only screen and (max-width: 768px) {
     padding: 2rem 2rem 1rem 4rem;
-    height: 63vh;
+    /* height: 63vh; */
   }
   @media only screen and (max-width: 380px) {
     height: 100%;
