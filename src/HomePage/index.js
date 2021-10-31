@@ -19,7 +19,7 @@ const HomePage = () => {
   useEffect(() => {
     setTimeout(() => {
       setTimedPopup(true);
-    }, 3000);
+    }, 2000);
   }, []);
   return (
     <>
