@@ -13,7 +13,6 @@ function App() {
           <Route to="/" exact component={Home} />
         </Switch>
         <Footer />
-
         <CookieConsent
           debug={true}
           location="bottom"
@@ -32,12 +31,12 @@ function App() {
           buttonText="OK, rozumiem"
           expires={365}
         >
-          “W ramach naszej witryny stosujemy pliki cookies w celu świadczenia
+          "W ramach naszej witryny stosujemy pliki cookies w celu świadczenia
           Państwu usług na najwyższym poziomie, w tym w sposób dostosowany do
           indywidualnych potrzeb. Korzystanie z witryny bez zmiany ustawień
           dotyczących cookies oznacza, że będą one zamieszczane w Państwa
           urządzeniu końcowym. Możecie Państwo dokonać w każdym czasie zmiany
-          ustawień dotyczących cookies.
+          ustawień dotyczących cookies."
         </CookieConsent>
       </Router>
     </>
