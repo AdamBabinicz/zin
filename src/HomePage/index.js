@@ -113,8 +113,9 @@ const HomePage = () => {
           Pragnę serdecznie podziękować nieznanej mi młodej Osobie z dwójką
           dzieci, która w dniu 31 października 2021 r. na Cmentarzu Komunalnym w
           Radomiu, udzieliła mi pomocy w znalezieniu poszukiwanego przeze mnie
-          grobu. Jej pomoc była skuteczna i przywróciła mi wiarę w młodych
-          ludzi, którzy wykazują troskę o starsze pokolenie. <br />
+          grobu. Jej pomoc była skuteczna i przeze mnie nieoczekiwana. Ten
+          dziwny zbieg okoliczności nasunął mi przypuszczenie, że Opatrzność
+          nade mną czuwa. <br />
           <b> Jeszcze raz bardzo dziękuję!</b>
         </p>
       </Popup>
